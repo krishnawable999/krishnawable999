@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on **...**
 
-- 💬 Ask me about **C++, DSA, Javascript**
+- 💬 Ask me about **DSA, C++, Javascript**
 
 - 📫 How to reach me **krishnawable999@gmail.com**
 
